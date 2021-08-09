@@ -1,0 +1,8 @@
+{
+	"journeys": [
+		{
+			"source": "Zone1",
+			"destination" : "Zone2"
+		}
+	]
+}
